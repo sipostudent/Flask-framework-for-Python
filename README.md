@@ -9,4 +9,4 @@
 
 <h3 align="center">Self-Taught Programming</h3>
 
-<h4 align="center">Create Websites with Python and Flask.</h4>
+<h4 align="center">Create Websites with Python and Flask</h4>
