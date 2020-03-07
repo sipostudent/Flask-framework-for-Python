@@ -92,6 +92,7 @@ def last_two(mystring):
 
 
 last_two('hello')
+last_two('hello')
 
 
 last_two('hi')
